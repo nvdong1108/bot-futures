@@ -1,4 +1,4 @@
-package com.dongnv.cryptocurrency.bot;
+package com.binance.connector.futures;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
